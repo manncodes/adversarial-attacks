@@ -58,3 +58,6 @@ Attacks are typically successful for images with low confidence. For successful 
 
 
 
+## Fast Gradient Sign Method 
+
+[Paper](https://arxiv.org/abs/1412.6572)
